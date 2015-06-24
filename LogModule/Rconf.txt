@@ -26,7 +26,7 @@ greeting: Welcome to the Configuration File!
 [LOGINFO]
 
 directory: ''
-logFile: test3.log
+logFile: Ryan.log
 rollWhen: S
 rollInterval: 60
 rollBackupCount: 10
