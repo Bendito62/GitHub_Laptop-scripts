@@ -1,0 +1,34 @@
+
+[DEFAULT]
+default: no configuration available
+
+
+[IPINFO]
+
+ServerIP: localhost
+ServerPort:8888
+
+
+
+[USERINFO]
+
+
+[CONSTANTS]
+
+
+[MESSAGES]
+
+progHeading: This is a Python3 program:  created by Ryan Hendrickson
+greeting: Welcome to the Configuration File!
+
+
+
+[LOGINFO]
+
+directory: ''
+logFile: test3.log
+rollWhen: S
+rollInterval: 60
+rollBackupCount: 10
+
+
