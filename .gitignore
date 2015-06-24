@@ -221,5 +221,7 @@ pip-log.txt
 
 #Log files
 *.log
-*.[1-3000]-[1-12]-[1-33]_[0-100]-[0-100]-[0-100]
-# Ryan Ignore 
+*.log.*
+
+#Ryan's Python configuration file
+!RConf.txt 
