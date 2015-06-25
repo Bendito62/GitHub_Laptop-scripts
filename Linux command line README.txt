@@ -30,9 +30,12 @@ Linux Command list:
 	
 	git add <files to add to repository>
 	git commit -m
-	git status
-	git pull <automatically merges repository with local code>
-	git checkout <branch name>  #switch to a new branch
+	git status  # determine the branch you are working on
+	git pull <automatically merges repository with local co de>
+	git checkout <branch name>  #switch to a new branch	
+	git add <local changed files>
+	git commit
+	git push origin <branch name>
 	
 	
 

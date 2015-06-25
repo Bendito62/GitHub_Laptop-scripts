@@ -1,8 +1,20 @@
-CjjjL
 
-B
-A
-B
-C
-C
-My Project
+My Rasberry PI Readme file
+______________________________
+
+Use git to 
+
+	$ man git  #manual command
+	git clone git@github.com:Bendito62/GitHub_Python-scripts.git
+	https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+
+	git clone <repository location>
+	
+	git add <files to add to repository>
+	git commit or  git commit -m
+	git status  # determine the branch you are working on
+	git pull <automatically merges repository with local co de>
+	git checkout <branch name>  #switch to a new branch	
+	git add <local changed files>
+	git commit
+	git push origin <branch name>
